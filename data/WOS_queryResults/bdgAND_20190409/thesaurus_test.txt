@@ -1,0 +1,21 @@
+label	replace by
+internet of things	iot
+internet of things (iot)	iot
+things	iot
+home monitoring	home automation
+health	healthcare
+system	systems
+sensor	sensors
+smart home	smart homes
+biometric	biometrics
+sensor networks	wireless sensor networks
+wearable	wearables
+wearable device	wearables
+wearable devices	wearables
+wearable sensors	wearables
+wearable technology	wearables
+elderly	older adults
+older-adults	older adults
+behaviour	behavior
+human activity recognition	activity recognition
+zigbee	wireless sensor networks

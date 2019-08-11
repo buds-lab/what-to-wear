@@ -1,0 +1,75 @@
+Ref,Date,Theme,Targeted user,Wearable type,Scalability,Wearable modalities,Fixed-sensor modalities,Objectives,Control Method,Verification
+\citep{Mokhtari2018},2018,HAR,Occupants,BLE tag,Everyday use,Movement,N/A,Activity recognition,N/A,Experimens and simulation
+\citep{Chaudhuri2018},2018,Thermal comfort,Occupants,Finger and arm mounted,Experiment set up,"Skin temperature, pulse rate, blood oxygen saturation, blood pressure","Air and black globe temperature, relative humidity, air velocity",Thermal comfort prediction,N/A,Experiment
+\citep{Dai2017},2017,Thermal comfort,Occupants,Skin mounted,Everyday use,Skin Temperature,N/A,Thermal comfort prediction,N/A,Experiment
+\citep{Ghahramani2018},2018,HAR,Occupants,Lanyard,Everyday use,"Sound intensity, CO$_2$, light intensity, dry-bulb temperature, relative humidity, and pressure","Sound intensity, CO$_2$, light intensity, dry-bulb temperature, relative humidity, and pressure",Activity recognition,N/A,Experiment
+\citep{Koo2016},2016,HCA,Occupants,Wrist mounted,Everyday use,Acceleration,N/A,Home Automation,Appliance control,Experiment
+\citep{Pierleoni2015},2015,AAL,Elderly user,Smartphone,Everyday use,Acceleration and magnetic field,N/A,Fall detection,N/A,Experiment
+\citep{McWhorter2017a},2017,Healthcare,PTSD Patients,Smartwatch,Everyday use,Heart rate,N/A,Sleep monitoring,N/A,Simulation
+\citep{George2017},2017,HCA,Occupants,Wrist mounted,Everyday use,RSSI,N/A,Personalized behaviour model,Light control,Experiment
+\citep{Bindroo2017a},2017,HCA,Occupants,Wrist mounted,Everyday use,RSSI,N/A,Home Automation,Appliance control,Simulation
+\citep{Cornelius2014a},2014,HCA,Occupants,Wrist mounted,Everyday use,Bioimpedance,N/A,User identification,N/A,Experiment
+\citep{Maekawa2013a},2013,AAL,Elderly user,Glove,Experiment set up,Magnetic field,N/A,Activity recognition,N/A,Experiment
+\citep{Nelson2015a},2015,AAL,Upper-extremity impaired,Textile,Everyday use,Capacitance,N/A,Gesture recognition,N/A,Experiment
+\citep{Guerra2015},2015,AAL,Elderly user,Wrist mounted,Everyday use,RSSI,N/A,Localization,Occupancy count,Experiment
+\citep{Mellone2015},2015,HCA,Elderly user,Waist and feet mounted,Everyday use,Acceleration,N/A,Activity recognition,N/A,Experiment
+\citep{Datta2015a},2015,AAL,Elderly user,Wrist mounted,Everyday use,Skin temperature,N/A,Health monitoring,Temperature set-point control,Simulation
+\citep{Oliveira2016a},2016,HCA,Occupants,Smartwatch,Experiment set up,"Pedometer, heart rate, skin temperature",Temperature and relative humidity,Behaviour modeling,Full environment control,Simulation
+\citep{Feng2017a},2017,HCA,Occupants,"Eyeglasses, earbuds, and necklace",Everyday use,Acceleration,N/A,User authentication,N/A,Experiment
+\citep{Hsu2017a},2017,HCA,Occupants,Wrist and feet mounted,Experiment set up,Acceleration,Temperature and CO$_2$,Gesture recognition and Localization,Appliances and light control,Experiment
+\citep{Maurya2014a},2014,Healthcare,Elderly user,Wrist mounted,Experiment set up ,"ECG, body temperature, and pulse rate",N/A,Health Monitoring,N/A,Experiment
+\citep{Sobeih2015a},2015,HCA,Occupants,Eyeglasses,Everyday use,Touch input,Temperature and  light intensity,Sensor interaction,Full environment control,Experiment
+\citep{Bonino2012a},2012,HCA,Occupants,Smartwatch,Everyday use,Skin temperature and acceleration,N/A,Gesture recognition,Appliance control,Simulation
+\citep{Jin2014b},2014,HCA,Occupants,Wrist mounted,Everyday use,"Ambient Temperature, relative humidity, light intensity, and acceleration",N.A,Activity and location recognition,N/A,Experiment
+\citep{Mario2019},2019,HAR,Occupants,Body mounted,Everyday use,Acceleration,N/A,Activity recognition,N/A,Experiment
+\citep{Jung2017},2017,Healthcare,Elderly user,Wrist mounted and headset,Experiment set up,"Respiration rate,ECG,body temperature and blood pressure",Temperature,Health monitoring,N/A,Experiment
+\citep{Scalise2016a},2017,Healthcare,Occupants,Waist and arm mounted,Experiment set up,"ECG, heart rate, acceleration, blood pressure, and body temperature",Temperature and Humidity,Health monitoring,N/A,Experiment
+\citep{Hu2018},2018,HCA,Occupants,Smartwatch,Everyday use,Heart rate and skin temperature,Temperature and relative humidity,Thermal comfort modeling,Full environmental control (RL),Experiment and simulation
+\citep{Filippoupolitis2017},2017,HAR,Occupants,Smartwatch,Everyday use,Acceleration,N/A,Activity recognition,N/A,Experiment
+\citep{Calvaresi2018},2018,HCA,Occupants,Wrist mounted,Everyday use,"Metabolic rate (heart rate, respiration rate, and acceleration)",Outside and indoor temperature,Thermal comfort modeling,Temperature set-point control (PID),simulation
+\citep{Bianchi2019},2019,AAL,Occupants,Wrist mounted and lanyard,Everyday use,Acceleration,"Temperature, relative humidity, and light intensity",Motion and fall detection,Indoor localization,Experiment
+\citep{Koon2017},2017,Healthcare,Elderly user,Smartwatch,Everyday use,Acceleration,N/A,Fall detection and health monitoring,N/A,Simulation
+\citep{Nilpanapan2017},2017,Healthcare,Elderly user,Feet mounted,Everyday use,Acceleration,N/A,Fall detection and Health monitoring,N/A,Experiment
+\citep{Muztoba2018},2018,AAL,Wheelchair user,Body mounted,Everyday use,"Acceleration, speech and EEG",N/A,Localization and indoor navigation,N/A,Experiment
+\citep{Bellagente2018},2018,AAL,Elderly user,Smartwatch,Everyday use,Acceleration,"Temperature, relative humidity, and air quality",Health monitoring,N/A,Experiment
+\citep{Maag2018},2018,Healthcare,Occupants,Wrist mounted,Everyday use,"Temperature, VOC, and O$_3$",N/A,Health monitoring,N/A,Experiment
+\citep{Ni2018},2018,HCA,Occupants,Wrist mounted,Everyday use,Acceleration,N/A,Activity recognition,N/A,Experiment
+\citep{Yu2019},2019,HAR,Occupants,On-body mounted,Everyday use,Acceleration and video feed,N/A,Activity recognition,N/A,Experiment
+\citep{Hassan2018},2018,HAR,Occupants,Smartphone,Everyday use,Acceleration,N/A,Activity recognition,N/A,Experiment
+\citep{Monteriu2018a},2018,AAL,Elderly user,Waist and arm mounted,Everyday use,"ECG, heart rate, acceleration, blood pressure, and blood oxygen saturation","Temperature, power consumption, light state, and occupancy state",User behaviour/health condition classification and profiling,N/A,Experiment
+\citep{Weber2015},2015,AAL,Occupants,Smartphone,Everyday use,Sound waveform,N/A,Activity recognition,N/A,Experiment
+\citep{Torres2018},2018,AAL,Elderly user,Chest mounted,Everyday use,Acceleration and angular velocity,N/A,Fall detection,Alarm trigger,Experiment
+\citep{Fafoutis2015},2015,HCA,Occupants,On-body mounted,Everyday use,RSSI,N/A,Wall prediction,N/A,Experiment
+\citep{Gu2010},2010,HAR,Occupants,Wrist mounted,Everyday use,RSSI,N/A,Activity recognition,N/A,Experiment
+\citep{Cook2015},2015,Healthcare,Elderly user,Arm and ankle mounted,Everyday use,"Acceleration, angular velocity, and magnetic field",N/A,Task recognition and health monitoring,N/A,Experiment
+\citep{Ogawa2015},2015,HCA,Elderly user,Headset,Experiment set up,Brain waves,N/A,Gesture recognition,Appliance control,Experiment
+\citep{Berrouiguet2018},2018,AAL,Occupants,Smartphone,Everyday use,GPS location,N/A,Identify behavioural changes,N/A,Experiment
+\citep{Lutze2015},2015,AAL,Elderly user,Smartwatch,Everyday use,"Acceleration, magnetic field, and angular velocity",N/A,Task recognition,Alarm trigger,Experiment
+\citep{Lin2018},2018,AAL,Elderly user and children,Smartwatch,Everyday use,GPS,N/A,Location recognition,N/A,Experiment 
+\citep{Koshmak2014},2014,AAL,Elderly user,Smartphone,Everyday use,Acceleration,N/A,Fall detection,N/A,Simulation
+\citep{Kuni2015},2015,HAR,Occupants,On-body mounted,Everyday use,Acceleration and angular velocity,N/A,Activity and task recognition,N/A,Experiment
+\citep{Chen2018b},2018,HCA,Occupants,Wrist mounted,Everyday use,Video feed,N/A,Gesture recognition,Appliance control,Experiment
+\citep{Alemuda2018},2018,HCA,Occupants,Wrist mounted,Everyday use,Acceleration and angular velocity,N/A,Gesture recognition,N/A,Experiment
+\citep{Borelli2019},2019,AAL,Elderly user,Waist mounted,Everyday use,Acceleration,Light state and occupancy state,Health monitoring,N/A,Experiment
+\citep{Xu2018},2018,HAR,Occupants,On-body mounted,Everyday use,Acceleration,N/A,Activity recognition,N/A,Experiment
+\citep{Hassan2018a},2018,HAR,Occupants,On-body mounted,Everyday use,Acceleration,N/A,Activity recognition,N/A,Experiment
+\citep{Geissbuhler2015},2015,AAL,Elderly user,Waist mounted,Everyday use,Acceleration and angular velocity,N/A,Fall detection,Alarm trigger,Experiment
+\citep{Rebetez2013},2013,HAR,Elderly user,"Wrist, ankle, and back mounted",Everyday use,Acceleration,Depth video feed,Activity recognition,N/A,Experiment
+\citep{Li2015},2015,HCA,Occupants,On-body mounted,Everyday use,Acceleration,Occupancy state,Location recognition and state estimation,N/A,Experiment
+\citep{Katz2015},2015,HCA,Occupants,Arm mounted,Experiment set up,"Acceleration, angular velocity, and EMG",N/A,Movement recognition,Appliance control,Experiment
+\citep{Nakagawa2016},2016,HCA,Occupants,Arm and waist mounted,Everyday use,Acceleration,Occupancy state and power consumption,Activity Recognition,N/A,Experiment
+\citep{Spano2016},2016,Healthcare,Occupants,Chest mounted,Everyday use,ECG,N/A,Health monitoring,N/A,Experiment
+\citep{Chen2016},2016,HAR,Elderly user,Wrist mounted,Everyday use,Acceleration,"Power consumption, air temperature, relative humidity, light intensity, and occupancy state",Activity recognition,N/A,Experiment
+\citep{Ranjan2015},2015,HCA,Occupants,Wrist mounted,Everyday use,"Acceleration, gravity, and orientation",Power consumption,Object-User identification,N/A,Experiment
+\citep{Sprute2016},2016,HAR,Occupants,Wrist mounted,Everyday use,Acceleration,N/A,Activity recognition and fall detection,Appliance control,Experiment
+\citep{Wang2011},2011,HAR,Occupants,"Chest, wrist, and hand mounted",Experiment set up,"Acceleration, air temperature, relative humidity, light intensity, sound waveform, and RSSI",N/A,Activity recognition,N/A,Experiment
+\citep{Do2018},2018,HCA,Elderly user,On-body mounted,Experiment set up,"Acceleration, ECG, blood oxygen saturation, respiration rate, sound intensity","Video feed, sound intensity, occupancy state","Activity recognition, fall detection, and localization",Appliance control and health monitoring,Experiment 
+\citep{Chen2017},2017,HAR,Occupants,Smartphone,Everyday use,Acceleration,N/A,Activity recognition,N/A,Experiment
+\citep{Fan2015},2015,HCA,Occupants,Smartwatch,Everyday use,Acceleration and heart rate,"Air temperature, relative humidity, occupancy state, light intensity, smoke and gas",Activity recognition,Appliance control,Experiment
+\citep{UlAlam2017},2017,HAR,Occupants,Wrist mounted,Everyday use,Acceleration,N/A,Activity recognition,N/A,Simulation
+\citep{Lee2017},2017,HAR,Occupants,Waist mounted,Everyday use,Acceleration and angular velocity,N/A,Activity recognition,Light control,Experiment
+\citep{Zhang2017},2017,HAR,Occupants,Smartphone and smartwatch,Everyday use,"Acceleration, heart rate, and skin temperature",N/A,"Activity recognition, fall detection, and location",N/A,Experiment
+\citep{Wang2017a},2017,HCA,Occupants,Smartphone and smartwatch,Everyday use,Acceleration and RSSI,N/A,Localization,N/A,Experiment
+\citep{Huang2016},2016,Thermal comfort,Occupants,Smartwatch,Everyday use,"Acceleration, skin temperature, GSR, and heart rate",Air temperature and relative humidity,Thermal comfort prediction,N/A,Experiment
+\citep{Vandewynckel2013},2013,HAR,Occupants,Feet mounted,Everyday use,Acceleration,N/A,Activity recognition,N/A,Experiment
+\citep{Zhu2015},2015,AAL,Elderly user,"Hand, feet, and waist mounted",Everyday use,Acceleration,N/A,Behaviour anomaly detection,Alarm trigger,Experiment

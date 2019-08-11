@@ -1,0 +1,46 @@
+Analysis:
+TS = A and B
+\begin{table}[h]
+\centering
+ \begin{tabular}{l l}
+            \hline
+            \textbf{A} & \textbf{B}\\
+            \hline
+            building* & wearable*\\
+            ``energy management" & biometric*\\
+             & bio-metric*\\
+             & biosensing\\
+             & bio-sensing\\
+            \hline
+            \end{tabular}
+\end{table}
+Resulting searches:
+TS=(wearable* AND (HVAC control)) x 
+TS=(wearable* AND (HVAC automation)) x 
+TS=(wearable* AND (HVAC “energy management”)) x 
+TS=(wearable* AND (building* control)) x
+TS=(wearable* AND (building* automation)) x 
+TS=(wearable* AND (building* “energy management”)) x
+TS=(physiological* AND (HVAC control)) x
+TS=(physiological* AND (HVAC automation)) x
+TS=(physiological* AND (HVAC “energy management”)) x
+TS=(physiological* AND (building* control)) x
+TS=(physiological* AND (building* automation)) x
+TS=(physiological* AND (building* “energy management”)) x
+TS=(biometric* AND (HVAC control)) x
+TS=(biometric* AND (HVAC automation)) x
+TS=(biometric* AND (HVAC “energy management”)) x
+TS=(biometric* AND (building* control)) x
+TS=(biometric* AND (building* automation)) x
+TS=(biometric* AND (building* “energy management”)) x
+TS=(bio-metric* AND (HVAC control)) x
+TS=(bio-metric* AND (HVAC automation)) x
+TS=(bio-metric* AND (HVAC “energy management”)) x
+TS=(bio-metric* AND (building* control)) x
+TS=(bio-metric* AND (building* automation)) x
+TS=(bio-metric* AND (building* “energy management”)) x
+TS=(wearable* AND building*)
+TS=(physiological* AND building*)
+TS=(bio-metric* AND building*)
+TS=(biometric* AND building*)
+TS=(biosensing* AND building*)

@@ -1,0 +1,398 @@
+﻿<search>
+<application_name>WOS</application_name>
+<application_version>WoK 5.5</application_version>
+<search_name>Test Search</search_name>
+<search_desc>Test Search Description</search_desc>
+<sets>
+<set>
+<set_number>1</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TS =(building* AND wearable*)]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ISTP ISSHP ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, CPCI-S, CPCI-SSH, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[TS =(building* AND wearable*) ]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[TS =(building* AND wearable*) ]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[TS =(building* AND wearable*) ]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TS =(building* AND wearable*)]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>2</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TS=(building* and biometric*)]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ISTP ISSHP ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, CPCI-S, CPCI-SSH, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[TS=(building* and biometric*) ]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[TS=(building* and biometric*) ]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[TS=(building* and biometric*) ]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TS=(building* and biometric*)]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>3</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TS=(building* and bio-metric*)]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ISTP ISSHP ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, CPCI-S, CPCI-SSH, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[TS=(building* and bio-metric*) ]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[TS=(building* and bio-metric*) ]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[TS=(building* and bio-metric*) ]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TS=(building* and bio-metric*)]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>4</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TS=(building* and biosensing)]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ISTP ISSHP ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, CPCI-S, CPCI-SSH, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[TS=(building* and biosensing) ]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[TS=(building* and biosensing) ]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[TS=(building* and biosensing) ]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TS=(building* and biosensing)]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>5</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TS=(building* and bio-sensing)]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ISTP ISSHP ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, CPCI-S, CPCI-SSH, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[TS=(building* and bio-sensing) ]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[TS=(building* and bio-sensing) ]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[TS=(building* and bio-sensing) ]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TS=(building* and bio-sensing)]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>6</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TS=(&quot;energy management&quot; AND wearable*)]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ISTP ISSHP ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, CPCI-S, CPCI-SSH, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[TS=(&quot;energy management&quot; AND wearable*) ]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[TS=(&quot;energy management&quot; AND wearable*) ]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[TS=(&quot;energy management&quot; AND wearable*) ]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TS=(&quot;energy management&quot; AND wearable*)]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>7</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TS=(&quot;energy management&quot; AND biometric*)]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ISTP ISSHP ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, CPCI-S, CPCI-SSH, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[TS=(&quot;energy management&quot; AND biometric*) ]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[TS=(&quot;energy management&quot; AND biometric*) ]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[TS=(&quot;energy management&quot; AND biometric*) ]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TS=(&quot;energy management&quot; AND biometric*)]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>8</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TS=(&quot;energy management&quot; AND bio-metric*)]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ISTP ISSHP ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, CPCI-S, CPCI-SSH, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[TS=(&quot;energy management&quot; AND bio-metric*) ]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[TS=(&quot;energy management&quot; AND bio-metric*) ]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[TS=(&quot;energy management&quot; AND bio-metric*) ]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TS=(&quot;energy management&quot; AND bio-metric*)]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>9</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TS=(&quot;energy management&quot; AND bio-sensing*)]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ISTP ISSHP ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, CPCI-S, CPCI-SSH, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[TS=(&quot;energy management&quot; AND bio-sensing*) ]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[TS=(&quot;energy management&quot; AND bio-sensing*) ]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[TS=(&quot;energy management&quot; AND bio-sensing*) ]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TS=(&quot;energy management&quot; AND bio-sensing*)]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>10</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TS=(&quot;energy management&quot; AND biosensing*)]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ISTP ISSHP ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, CPCI-S, CPCI-SSH, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[TS=(&quot;energy management&quot; AND biosensing*) ]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[TS=(&quot;energy management&quot; AND biosensing*) ]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[TS=(&quot;energy management&quot; AND biosensing*) ]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TS=(&quot;energy management&quot; AND biosensing*)]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+</sets>
+</search>

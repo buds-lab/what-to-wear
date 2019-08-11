@@ -1,0 +1,1412 @@
+﻿<search>
+<application_name>WOS</application_name>
+<application_version>WoK 5.5</application_version>
+<search_name>Test Search</search_name>
+<search_desc>Test Search Description</search_desc>
+<sets>
+<set>
+<set_number>1</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TS=(wearable* AND &quot;building* automation*&quot;)]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ISTP ISSHP ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, CPCI-S, CPCI-SSH, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[TS=(wearable* AND &quot;building* automation*&quot;) ]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[TS=(wearable* AND &quot;building* automation*&quot;) ]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[TS=(wearable* AND &quot;building* automation*&quot;) ]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TS=(wearable* AND &quot;building* automation*&quot;)]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>2</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TS=(wearable* AND &quot;building* control*&quot;)]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ISTP ISSHP ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, CPCI-S, CPCI-SSH, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[TS=(wearable* AND &quot;building* control*&quot;) ]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[TS=(wearable* AND &quot;building* control*&quot;) ]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[TS=(wearable* AND &quot;building* control*&quot;) ]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TS=(wearable* AND &quot;building* control*&quot;)]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>3</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TS=(wearable* AND &quot;building* energy managent&quot;)]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ISTP ISSHP ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, CPCI-S, CPCI-SSH, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[TS=(wearable* AND &quot;building* energy managent&quot;) ]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[TS=(wearable* AND &quot;building* energy managent&quot;) ]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[TS=(wearable* AND &quot;building* energy managent&quot;) ]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TS=(wearable* AND &quot;building* energy managent&quot;)]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>4</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TS=(wearable* AND &quot;building* energy management&quot;)]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ISTP ISSHP ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, CPCI-S, CPCI-SSH, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[TS=(wearable* AND &quot;building* energy management&quot;) ]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[TS=(wearable* AND &quot;building* energy management&quot;) ]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[TS=(wearable* AND &quot;building* energy management&quot;) ]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TS=(wearable* AND &quot;building* energy management&quot;)]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>5</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TS=(wearable* AND &quot;smart building*&quot;)]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ISTP ISSHP ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, CPCI-S, CPCI-SSH, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[TS=(wearable* AND &quot;smart building*&quot;) ]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[TS=(wearable* AND &quot;smart building*&quot;) ]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[TS=(wearable* AND &quot;smart building*&quot;) ]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TS=(wearable* AND &quot;smart building*&quot;)]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>6</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TS=(wearable* AND &quot;smart home*&quot;)]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ISTP ISSHP ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, CPCI-S, CPCI-SSH, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[TS=(wearable* AND &quot;smart home*&quot;) ]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[TS=(wearable* AND &quot;smart home*&quot;) ]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[TS=(wearable* AND &quot;smart home*&quot;) ]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TS=(wearable* AND &quot;smart home*&quot;)]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>7</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TS=(wearable* AND &quot;home control*&quot;)]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ISTP ISSHP ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, CPCI-S, CPCI-SSH, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[TS=(wearable* AND &quot;home control*&quot;) ]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[TS=(wearable* AND &quot;home control*&quot;) ]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[TS=(wearable* AND &quot;home control*&quot;) ]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TS=(wearable* AND &quot;home control*&quot;)]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>8</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TS=(wearable* AND &quot;home automation*&quot;)]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ISTP ISSHP ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, CPCI-S, CPCI-SSH, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[TS=(wearable* AND &quot;home automation*&quot;) ]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[TS=(wearable* AND &quot;home automation*&quot;) ]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[TS=(wearable* AND &quot;home automation*&quot;) ]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TS=(wearable* AND &quot;home automation*&quot;)]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>9</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TS=(biometric* AND &quot;building* automation*&quot;)]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ISTP ISSHP ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, CPCI-S, CPCI-SSH, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[TS=(biometric* AND &quot;building* automation*&quot;) ]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[TS=(biometric* AND &quot;building* automation*&quot;) ]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[TS=(biometric* AND &quot;building* automation*&quot;) ]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TS=(biometric* AND &quot;building* automation*&quot;)]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>10</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TS=(biometric* AND &quot;building* control*&quot;)]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ISTP ISSHP ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, CPCI-S, CPCI-SSH, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[TS=(biometric* AND &quot;building* control*&quot;) ]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[TS=(biometric* AND &quot;building* control*&quot;) ]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[TS=(biometric* AND &quot;building* control*&quot;) ]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TS=(biometric* AND &quot;building* control*&quot;)]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>11</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TS=(biometric* AND &quot;building* energy management*&quot;)]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ISTP ISSHP ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, CPCI-S, CPCI-SSH, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[TS=(biometric* AND &quot;building* energy management*&quot;) ]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[TS=(biometric* AND &quot;building* energy management*&quot;) ]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[TS=(biometric* AND &quot;building* energy management*&quot;) ]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TS=(biometric* AND &quot;building* energy management*&quot;)]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>12</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TS=(biometric* AND &quot;smart building*&quot;)]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ISTP ISSHP ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, CPCI-S, CPCI-SSH, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[TS=(biometric* AND &quot;smart building*&quot;) ]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[TS=(biometric* AND &quot;smart building*&quot;) ]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[TS=(biometric* AND &quot;smart building*&quot;) ]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TS=(biometric* AND &quot;smart building*&quot;)]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>13</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TS=(biometric* AND &quot;smart home*&quot;)]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ISTP ISSHP ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, CPCI-S, CPCI-SSH, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[TS=(biometric* AND &quot;smart home*&quot;) ]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[TS=(biometric* AND &quot;smart home*&quot;) ]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[TS=(biometric* AND &quot;smart home*&quot;) ]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TS=(biometric* AND &quot;smart home*&quot;)]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>14</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TS=(biometric* AND &quot;home control*&quot;)]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ISTP ISSHP ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, CPCI-S, CPCI-SSH, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[TS=(biometric* AND &quot;home control*&quot;) ]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[TS=(biometric* AND &quot;home control*&quot;) ]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[TS=(biometric* AND &quot;home control*&quot;) ]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TS=(biometric* AND &quot;home control*&quot;)]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>15</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TS=(biometric* AND &quot;home automation*&quot;)]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ISTP ISSHP ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, CPCI-S, CPCI-SSH, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[TS=(biometric* AND &quot;home automation*&quot;) ]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[TS=(biometric* AND &quot;home automation*&quot;) ]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[TS=(biometric* AND &quot;home automation*&quot;) ]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TS=(biometric* AND &quot;home automation*&quot;)]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>16</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TS=(bio-metric* AND &quot;building automation*&quot;)]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ISTP ISSHP ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, CPCI-S, CPCI-SSH, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[TS=(bio-metric* AND &quot;building automation*&quot;) ]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[TS=(bio-metric* AND &quot;building automation*&quot;) ]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[TS=(bio-metric* AND &quot;building automation*&quot;) ]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TS=(bio-metric* AND &quot;building automation*&quot;)]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>17</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TS=(bio-metric* AND &quot;building control*&quot;)]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ISTP ISSHP ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, CPCI-S, CPCI-SSH, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[TS=(bio-metric* AND &quot;building control*&quot;) ]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[TS=(bio-metric* AND &quot;building control*&quot;) ]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[TS=(bio-metric* AND &quot;building control*&quot;) ]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TS=(bio-metric* AND &quot;building control*&quot;)]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>18</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TS=(bio-metric* AND &quot;building energy management*&quot;)]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ISTP ISSHP ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, CPCI-S, CPCI-SSH, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[TS=(bio-metric* AND &quot;building energy management*&quot;) ]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[TS=(bio-metric* AND &quot;building energy management*&quot;) ]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[TS=(bio-metric* AND &quot;building energy management*&quot;) ]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TS=(bio-metric* AND &quot;building energy management*&quot;)]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>19</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TS=(bio-metric* AND &quot;smart building*&quot;)]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ISTP ISSHP ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, CPCI-S, CPCI-SSH, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[TS=(bio-metric* AND &quot;smart building*&quot;) ]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[TS=(bio-metric* AND &quot;smart building*&quot;) ]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[TS=(bio-metric* AND &quot;smart building*&quot;) ]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TS=(bio-metric* AND &quot;smart building*&quot;)]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>20</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TS=(bio-metric* AND &quot;smart home*&quot;)]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ISTP ISSHP ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, CPCI-S, CPCI-SSH, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[TS=(bio-metric* AND &quot;smart home*&quot;) ]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[TS=(bio-metric* AND &quot;smart home*&quot;) ]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[TS=(bio-metric* AND &quot;smart home*&quot;) ]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TS=(bio-metric* AND &quot;smart home*&quot;)]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>21</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TS=(bio-metric* AND &quot;home control*&quot;)]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ISTP ISSHP ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, CPCI-S, CPCI-SSH, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[TS=(bio-metric* AND &quot;home control*&quot;) ]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[TS=(bio-metric* AND &quot;home control*&quot;) ]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[TS=(bio-metric* AND &quot;home control*&quot;) ]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TS=(bio-metric* AND &quot;home control*&quot;)]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>22</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TS=(bio-metric* AND &quot;home automation*&quot;)]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ISTP ISSHP ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, CPCI-S, CPCI-SSH, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[TS=(bio-metric* AND &quot;home automation*&quot;) ]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[TS=(bio-metric* AND &quot;home automation*&quot;) ]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[TS=(bio-metric* AND &quot;home automation*&quot;) ]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TS=(bio-metric* AND &quot;home automation*&quot;)]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>23</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TS=(biosensing AND &quot;building* automation*&quot;)]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ISTP ISSHP ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, CPCI-S, CPCI-SSH, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[TS=(biosensing AND &quot;building* automation*&quot;) ]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[TS=(biosensing AND &quot;building* automation*&quot;) ]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[TS=(biosensing AND &quot;building* automation*&quot;) ]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TS=(biosensing AND &quot;building* automation*&quot;)]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>24</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TS=(biosensing AND &quot;building* control*&quot;)]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ISTP ISSHP ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, CPCI-S, CPCI-SSH, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[TS=(biosensing AND &quot;building* control*&quot;) ]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[TS=(biosensing AND &quot;building* control*&quot;) ]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[TS=(biosensing AND &quot;building* control*&quot;) ]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TS=(biosensing AND &quot;building* control*&quot;)]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>25</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TS=(biosensing AND &quot;building* energy management*&quot;)]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ISTP ISSHP ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, CPCI-S, CPCI-SSH, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[TS=(biosensing AND &quot;building* energy management*&quot;) ]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[TS=(biosensing AND &quot;building* energy management*&quot;) ]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[TS=(biosensing AND &quot;building* energy management*&quot;) ]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TS=(biosensing AND &quot;building* energy management*&quot;)]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>26</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TS=(biosensing AND &quot;smart building*&quot;)]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ISTP ISSHP ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, CPCI-S, CPCI-SSH, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[TS=(biosensing AND &quot;smart building*&quot;) ]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[TS=(biosensing AND &quot;smart building*&quot;) ]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[TS=(biosensing AND &quot;smart building*&quot;) ]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TS=(biosensing AND &quot;smart building*&quot;)]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>27</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TS=(biosensing AND &quot;smart home*&quot;)]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ISTP ISSHP ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, CPCI-S, CPCI-SSH, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[TS=(biosensing AND &quot;smart home*&quot;) ]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[TS=(biosensing AND &quot;smart home*&quot;) ]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[TS=(biosensing AND &quot;smart home*&quot;) ]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TS=(biosensing AND &quot;smart home*&quot;)]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>28</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TS=(biosensing AND &quot;home* control*&quot;)]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ISTP ISSHP ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, CPCI-S, CPCI-SSH, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[TS=(biosensing AND &quot;home* control*&quot;) ]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[TS=(biosensing AND &quot;home* control*&quot;) ]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[TS=(biosensing AND &quot;home* control*&quot;) ]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TS=(biosensing AND &quot;home* control*&quot;)]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>29</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TS=(biosensing AND &quot;home* automation*&quot;)]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ISTP ISSHP ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, CPCI-S, CPCI-SSH, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[TS=(biosensing AND &quot;home* automation*&quot;) ]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[TS=(biosensing AND &quot;home* automation*&quot;) ]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[TS=(biosensing AND &quot;home* automation*&quot;) ]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TS=(biosensing AND &quot;home* automation*&quot;)]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>30</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TS=(bio-sensing AND &quot;building* automation*&quot;)]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ISTP ISSHP ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, CPCI-S, CPCI-SSH, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[TS=(bio-sensing AND &quot;building* automation*&quot;) ]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[TS=(bio-sensing AND &quot;building* automation*&quot;) ]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[TS=(bio-sensing AND &quot;building* automation*&quot;) ]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TS=(bio-sensing AND &quot;building* automation*&quot;)]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>31</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TS=(bio-sensing AND &quot;building* control*&quot;)]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ISTP ISSHP ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, CPCI-S, CPCI-SSH, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[TS=(bio-sensing AND &quot;building* control*&quot;) ]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[TS=(bio-sensing AND &quot;building* control*&quot;) ]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[TS=(bio-sensing AND &quot;building* control*&quot;) ]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TS=(bio-sensing AND &quot;building* control*&quot;)]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>32</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TS=(bio-sensing AND &quot;building* energy management&quot;)]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ISTP ISSHP ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, CPCI-S, CPCI-SSH, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[TS=(bio-sensing AND &quot;building* energy management&quot;) ]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[TS=(bio-sensing AND &quot;building* energy management&quot;) ]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[TS=(bio-sensing AND &quot;building* energy management&quot;) ]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TS=(bio-sensing AND &quot;building* energy management&quot;)]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>33</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TS=(bio-sensing AND &quot;smart building*&quot;)]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ISTP ISSHP ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, CPCI-S, CPCI-SSH, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[TS=(bio-sensing AND &quot;smart building*&quot;) ]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[TS=(bio-sensing AND &quot;smart building*&quot;) ]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[TS=(bio-sensing AND &quot;smart building*&quot;) ]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TS=(bio-sensing AND &quot;smart building*&quot;)]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>34</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TS=(bio-sensing AND &quot;smart home*&quot;)]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ISTP ISSHP ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, CPCI-S, CPCI-SSH, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[TS=(bio-sensing AND &quot;smart home*&quot;) ]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[TS=(bio-sensing AND &quot;smart home*&quot;) ]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[TS=(bio-sensing AND &quot;smart home*&quot;) ]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TS=(bio-sensing AND &quot;smart home*&quot;)]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>35</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TS=(bio-sensing AND &quot;home control*&quot;)]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ISTP ISSHP ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, CPCI-S, CPCI-SSH, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[TS=(bio-sensing AND &quot;home control*&quot;) ]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[TS=(bio-sensing AND &quot;home control*&quot;) ]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[TS=(bio-sensing AND &quot;home control*&quot;) ]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TS=(bio-sensing AND &quot;home control*&quot;)]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>36</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TS=(bio-sensing AND &quot;home automation*&quot;)]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ISTP ISSHP ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, CPCI-S, CPCI-SSH, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[TS=(bio-sensing AND &quot;home automation*&quot;) ]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[TS=(bio-sensing AND &quot;home automation*&quot;) ]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[TS=(bio-sensing AND &quot;home automation*&quot;) ]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TS=(bio-sensing AND &quot;home automation*&quot;)]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+</sets>
+</search>
